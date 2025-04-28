@@ -1,0 +1,29 @@
+#titulo {
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ #nomeCafe {
+     margin-top: 7rem;
+     text-align: center;
+ }
+ 
+ #imagens {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+ }
+ #imagem {
+     height: 150px;
+ }
+ 
+ p {
+     text-align: left;
+ }
+ 
+ main {
+     font-family: Arial;
+     font-size: 2;
+ }
+ 
+ .descricao {margin-left: 3rem;}
